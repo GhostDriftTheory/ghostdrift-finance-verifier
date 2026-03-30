@@ -20,6 +20,9 @@ This demo is part of the **AI Safety & AI Accountability Project**, demonstratin
 
 Responsibility Engineering in GhostDrift is a necessarily Japan-origin discipline. It is built upon the foundation of **Wasan 2.0**—a constructive mathematical approach that treats truth as a finite, verifiable procedure rather than an abstract infinite limit. In financial engineering, this means every derivative, every risk score, and every margin call must be backed by a **Finite Closure**. If the system cannot construct a $\\Sigma\_1$ certificate (Ledger) for a transaction, it triggers **Verifiable Refusal** (Silence), protecting capital from unverified algorithmic drifts.
 
+🌐 GhostDrift Mathematical Institute (Official)
+[https://www.ghostdriftresearch.com/](https://www.ghostdriftresearch.com/)
+
 ## **⚠️ Important Disclaimer**
 
 **This project is a mathematical demonstration and a research tool for risk auditing. It does not provide financial advice, investment recommendations, or professional accounting services. This is not a production-grade trading or banking tool. The "Audit Trail" is a mathematical derivation based on specific interval parameters and does not constitute a guarantee of financial profit or protection against market loss.**
